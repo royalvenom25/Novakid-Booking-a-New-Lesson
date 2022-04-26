@@ -16,6 +16,6 @@ Test Task - [Novakid](http://novakidschool.com/)
 
 ### **Link to [Figma file](https://www.figma.com/file/x9QGnBtLEgPYrT3AotIFqJ/booking-a-new-lesson?node-id=0%3A1)**
 File contents:
-- ❖ Library & Comp
+- ❖ Library & Components
 - ❏ Wireframing
 - 📱💻 Designs
