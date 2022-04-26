@@ -1,7 +1,7 @@
 # Novakid Booking a New Lesson
-Test Task
+Test Task - [Novakid](http://novakidschool.com/)
 
-**The Task:** <br> Design an experience that will improve booking a new lesson with the goal of displaying it effectively and invite further exploration.
+**The Task:** <br> Design an experience that will improve the booking of the lesson with the goal displaying it effectively and invite further exploration.
 
 **The Goal:** <br> Seamless experience that will be usable for the parents to accomplish lesson bookings & trigger further exploration.
 
