@@ -7,11 +7,11 @@ Test Task - [Novakid](http://novakidschool.com/)
 
 ## **My Approach**
 - Reaserch as much as possible the current website to understand the flows & structure of the product.
-- Ideation & hypothesis of a potential flow & analysing the possible paintpoints.
+- Ideation of a potential flow & analysing the possible pain points.
 - Visualisation of the Ideas - Wireframing.
 - Testing the usability with friend & collegue.
 - Improvements & fixes.
-- Creation of the Library / UIkit Elements & components.
+- Creation of the Library / UI kit elements & components.
 - Designing high fidelity mockup & simple prototype (2 screens).
 
 ### **Link to [Figma file](https://www.figma.com/file/x9QGnBtLEgPYrT3AotIFqJ/booking-a-new-lesson?node-id=0%3A1)**
