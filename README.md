@@ -1,2 +1,2 @@
-# Novakid---Booking-a-New-Lesson
+# Novakid Booking a New Lesson
 Test Task Readme
