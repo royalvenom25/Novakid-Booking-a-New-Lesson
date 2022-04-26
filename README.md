@@ -14,7 +14,7 @@ Test Task - [Novakid](http://novakidschool.com/)
 - Creation of the Library / UI kit elements & components.
 - Designing high fidelity mockup & simple prototype (2 screens).
 
-### **Link to [Figma file](https://www.figma.com/file/x9QGnBtLEgPYrT3AotIFqJ/booking-a-new-lesson?node-id=0%3A1)**
+### **Link to [Figma file](https://www.figma.com/file/x9QGnBtLEgPYrT3AotIFqJ/Novakid---Booking-a-New-Lesson?node-id=1%3A3)**
 File contents:
 - ❖ Library & Components
 - ❏ Wireframing
